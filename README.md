@@ -40,6 +40,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" **alt="Slack" width="40" height="40"/>&nbsp; 
 <img src="https://commons.wikimedia.org/wiki/File:DBeaver_logo.svg" title="Dbeaver" **alt="DBeaver" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MD" **alt="MD" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="TomCat" **alt="TomCat" width="40" height="40"/>&nbsp;
  
 </p>
 
