@@ -38,7 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" **alt="Slack" width="40" height="40"/>&nbsp; 
-<img src="https://commons.wikimedia.org/wiki/File:DBeaver_logo.svg" **alt="DBeaver" width="40" height="40"/>&nbsp; 
+<img src="https://raw.githubusercontent.com/wiki/dbeaver/dbeaver/images/dbeaver-icon-64x64.png" **alt="DBeaver" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MD" **alt="MD" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="TomCat" **alt="TomCat" width="40" height="40"/>&nbsp;
  
