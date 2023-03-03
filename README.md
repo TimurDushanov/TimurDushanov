@@ -1,7 +1,7 @@
 ## Привет👋
 Меня зовут **Душанов Тимур**,я начинающий Java developer
 
-
+---
 
 ## Мои проекты:
 #### Сервис перевода денег - [MoneyTransferService](https://github.com/TimurDushanov/TransferMoneyService.git)
@@ -10,6 +10,14 @@
 ---
 
 Посмотреть иные мои работы можно [здесь](https://github.com/TimurDushanov?tab=repositories)
+
+</p>
+
+---
+
+## Мои контакты:
+e-mail: engineer4dept@yandex.ru
+telegram: @timur11
 
 </p>
 
