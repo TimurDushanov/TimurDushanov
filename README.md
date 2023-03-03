@@ -16,13 +16,14 @@
 ---
 
  ⚡  My Certifications :
- - [Java basics](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/java.jpg)
- - [Git](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/Git.jpg)
- - [Java Core](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/JavaCore.jpg)
- - [Design patterns](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/templates.jpg)
- - [Java multireading](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/multireading.jpg)
- - [Web, Spring & Spring MVC](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/MVC.jpg)
- - [Spring Boot, deployment and infrastructure](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/boot.jpg)
+ - [Java basics](https://github.com/TimurDushanov/data/blob/master/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20JAVA.pdf)
+ - [Git](https://github.com/TimurDushanov/data/blob/master/certificategit.pdf)
+ - [Java Core](https://github.com/TimurDushanov/data/blob/master/java%20core.pdf)
+ - [Design patterns](https://github.com/TimurDushanov/data/blob/master/%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.pdf)
+ - [Algorithms and data structures](https://github.com/TimurDushanov/data/blob/master/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B.pdf)
+ - [Java multireading](https://github.com/TimurDushanov/data/blob/master/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D1%82%D0%BE%D1%87%D0%BA%D0%B0.pdf)
+ - [Web, Spring & Spring MVC](https://github.com/TimurDushanov/data/blob/master/web%2C%20spring.pdf)
+ - [Spring Boot, deployment and infrastructure](https://github.com/TimurDushanov/data/blob/master/spring%20boot.pdf)
  
  
  </p>
