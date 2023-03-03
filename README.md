@@ -23,7 +23,6 @@
  - [Java multireading](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/multireading.jpg)
  - [Web, Spring & Spring MVC](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/MVC.jpg)
  - [Spring Boot, deployment and infrastructure](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/boot.jpg)
- - [Data storage and security organization](https://github.com/AnnaGubkina/AnnaGubkina/blob/master/db.jpg)
  
 
 <!--
