@@ -44,6 +44,7 @@ telegram: @timur11
  - [Java multireading](https://github.com/TimurDushanov/data/blob/master/%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BF%D0%BE%D1%82%D0%BE%D1%87%D0%BA%D0%B0.pdf)
  - [Web, Spring & Spring MVC](https://github.com/TimurDushanov/data/blob/master/web%2C%20spring.pdf)
  - [Spring Boot, deployment and infrastructure](https://github.com/TimurDushanov/data/blob/master/spring%20boot.pdf)
+ - [](https://github.com/TimurDushanov/data/blob/master/certificate.pdf)
  
  
  </p>
