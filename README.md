@@ -17,6 +17,7 @@
 ## Мои проекты:
 #### Сервис перевода денег - [MoneyTransferService](https://github.com/TimurDushanov/TransferMoneyService.git)
 #### Сервис авторизации пользователей - [AuthorizationService_SpringBoot](AuthorizationService_SpringBoot)
+#### Итоговая работа по курсу "SQL и получение данных" - [SQL](https://github.com/TimurDushanov/SQL.git)
 
 ---
 
