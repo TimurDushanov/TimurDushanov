@@ -36,6 +36,7 @@ telegram: @timur11
 ---
 
  ⚡  My Certifications :
+ - [SQL и получение данных](https://github.com/TimurDushanov/data/blob/master/certificate.pdf)
  - [Java basics](https://github.com/TimurDushanov/data/blob/master/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20JAVA.pdf)
  - [Git](https://github.com/TimurDushanov/data/blob/master/certificategit.pdf)
  - [Java Core](https://github.com/TimurDushanov/data/blob/master/java%20core.pdf)
